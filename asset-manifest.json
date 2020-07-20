@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.28108a08.chunk.css",
+    "main.js": "/portfolio/static/js/main.ecacc6f8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ecacc6f8.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.075c0788.js.map",
+    "static/js/2.5c55d2a0.chunk.js": "/portfolio/static/js/2.5c55d2a0.chunk.js",
+    "static/js/2.5c55d2a0.chunk.js.map": "/portfolio/static/js/2.5c55d2a0.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.3e83858514c9fac5d1b8859b7aff0600.js": "/portfolio/precache-manifest.3e83858514c9fac5d1b8859b7aff0600.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.28108a08.chunk.css.map": "/portfolio/static/css/main.28108a08.chunk.css.map",
+    "static/js/2.5c55d2a0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5c55d2a0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/BG.d892e6dd.jpg",
+    "static/media/DoDone.png": "/portfolio/static/media/DoDone.15dbd34f.png",
+    "static/media/avatar.png": "/portfolio/static/media/avatar.1887140c.png",
+    "static/media/web p1.png": "/portfolio/static/media/web p1.cd7b3290.png",
+    "static/media/web p2.png": "/portfolio/static/media/web p2.d72fb980.png",
+    "static/media/web p3.png": "/portfolio/static/media/web p3.f37ffa3a.png",
+    "static/media/web p4.png": "/portfolio/static/media/web p4.c05c54f9.png",
+    "static/media/web p5.png": "/portfolio/static/media/web p5.10ac47d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.075c0788.js",
+    "static/js/2.5c55d2a0.chunk.js",
+    "static/css/main.28108a08.chunk.css",
+    "static/js/main.ecacc6f8.chunk.js"
+  ]
+}

@@ -70,7 +70,7 @@ const Portfolio = () => {
 									color='primary'>
 									GitHub
 								</Button>
-								<Button disabled color='secondary' size='small' color='primary'>
+								<Button disabled color='secondary' size='small'>
 									Live Demo
 								</Button>
 							</CardActions>

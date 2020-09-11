@@ -65,7 +65,7 @@ const Portfolio = () => {
 	const classes = useStyles()
 	return (
 		<Box component='div' className={classes.mainContainer}>
-			<Typography variant='h4' align='center' style={{ color: 'white' }}>
+			<Typography variant='h4' align='center' style={{ color: 'gold' }}>
 				Projects
 			</Typography>
 			<Grid container spacing={1}>

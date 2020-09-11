@@ -61,7 +61,7 @@ const Home = () => {
 				/>
 			</div>
 			<br />
-			<div style={{ height: '100vh' }}>
+			<div style={{ height: '100%' }}>
 				<Portfolio />
 			</div>
 			<div style={{ height: '100vh' }}>

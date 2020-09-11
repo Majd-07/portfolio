@@ -110,7 +110,7 @@ const Contacts = () => {
 						fullWidth={true}
 						type='submit'
 						endIcon={<SendIcon />}>
-						Contact Me
+						Send
 					</Button>
 				</Box>
 			</Grid>

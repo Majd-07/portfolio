@@ -101,7 +101,8 @@ const Contacts = () => {
 						inputProps={{ style: { color: '#c5c2c2' } }}
 						margin='dense'
 						size='medium'
-						multiline></InputField>
+						multiline
+						rowsMax={5}></InputField>
 					<br />
 					<Button
 						className={classes.button}
